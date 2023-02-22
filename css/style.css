@@ -73,6 +73,7 @@ body{
   background-color: black;
   width: 40px;
   padding: 7px;
+  cursor: pointer;
 }
 .header_icn_inner{
   background-color: white;
